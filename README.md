@@ -4,7 +4,7 @@
 
 ## Demo
 
-Check out the live demo: [3Dchair Customization Demo](https://makechair.vercel.app)
+Check out the live demo: [3Dchair Customization Demo](https://refaay-chair-customizer.vercel.app/)(https://chair-configurator-beryl.vercel.app/)
 
 ## Installation
 
